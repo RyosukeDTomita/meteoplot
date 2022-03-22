@@ -1,5 +1,5 @@
-[ENGLISH versipon README-en.md](./README.md)
-# INDEX (README.md is WIP)
+[日本語版README.md](./README.md)
+# INDEX
 Read netcdf and make meteorogical figures.
 
 - [ABOUT](#ABOUT)
@@ -10,7 +10,7 @@ Read netcdf and make meteorogical figures.
 
 # EXAMPLE
 ![example](./example/example.png)
-<img src="example/example_nh.png" width="250">
+<img src="example/example_nh.png" width="500">
 
 # ABOUT
 This repository Programs are created to analyze netcdf meteorogical data.
@@ -33,6 +33,8 @@ pip install -r requirements.txt
 # INFORMATION
 ## ncMagics/
 Composed by modules. See [ncMagics_document](./ncmagics/README.md)
+## pyfiles list
+**SEE [program.md](./program.md)**
 
 ## mk_ave/
 Make average data netcdf file.
