@@ -30,10 +30,10 @@ pip install -r requirements.txt
 
 # INFORMATION
 ## ncMagics/
-モジュールを集めたディレクトリです。[ncMagics_document](./ncmagics/README.md)
+pyfiles listにあるプログラムを動かすのに使う自作モジュールを集めたディレクトリです。[ncMagics_document](./ncmagics/README.md)参照。
 
 ## pyfiles list
-**[program.md](./program.md)**参照。それぞれのプログラムについての説明が載っています。
+[program.md](./program.md)参照。それぞれのプログラムについての説明が載っています。
 
 ## mk_ave/
 GPVの12時間毎のデータから6時間毎のデータを生成するのに使ったスクリプトです。
