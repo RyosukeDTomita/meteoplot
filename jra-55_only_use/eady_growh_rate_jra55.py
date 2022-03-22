@@ -2,7 +2,7 @@
 """
 Name: eady_growth_rate.py
 
-Calcurate eady_growth rate.
+Calcurate eady_growth rate. (JRA-55 can calcurate eady_growth_ratemore easily. Not Reccomend to use.)
 
 example: python3 eady_growth_rate.py --file <ncfile>
 

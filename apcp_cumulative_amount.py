@@ -4,7 +4,7 @@ Name:
 
 plot cumulative amount.
 
-example: python3 apcp_cumulateive_amount.py --file <ncfile1> <ncfile2>
+example: python3 apcp_cumulateive_amount.py --file <apcp_ncfile1> <apcp_ncfile2> --tfile <troposphere_ncfile>
 Asuming that ncfile1 is younger than ncfile2
 
 Author: Ryosuke Tomita

@@ -4,7 +4,7 @@ Name: diff_upper_lower_wind.py
 
 calcurate the difference between upper wind and lower wind.
 
-Usage:
+Usage: python3 diff_upper_lower_wind.py --file <ncfile>
 
 Author: Ryosuke Tomita
 Date: 2021/11/25

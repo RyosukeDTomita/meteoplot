@@ -4,10 +4,10 @@ Name: ptl_vrt.py
 
 potential vorticity on the isentropic.
 
-Usage: python3 ptl_vrt.py --file <ncfile>
+Usage: python3 ptl_vrt.py --file <ncfile> <ncfile2>
 
 Author: Ryosuke Tomita
-Date: 2021/11/08
+Date: 2022/2/5
 """
 import argparse
 import numpy as np
